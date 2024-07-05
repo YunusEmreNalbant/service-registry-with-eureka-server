@@ -1,6 +1,6 @@
 # Spring Boot ile Netflix Eureka Kullanımı Örneği
 
-Bu proje, Spring Boot ve Netflix Eureka kullanarak basit bir mikroservis mimarisi örneğidir. B Projede Eureka Server ve Eureka Client kullanımını basit bir şekilde gösterilmektedir.
+Bu proje, Spring Boot ve Netflix Eureka kullanarak basit bir mikroservis mimarisi örneğidir. Bu projede Eureka Server ve Eureka Client kullanımını basit bir şekilde göstererek çalışma mantığı anlatılmaya çalışılmıştır.
 
 ## Başlarken
 
